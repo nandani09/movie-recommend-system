@@ -1,0 +1,38 @@
+# Movie Recommender System
+
+This is a Streamlit-based movie recommender system that suggests movies similar to a selected movie.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## Introduction
+
+The Movie Recommender System uses cosine similarity to recommend movies based on a selected movie. It utilizes precomputed similarity matrices and a dataset of movie titles to provide recommendations.
+
+## Features
+
+- Select a movie from a dropdown list.
+- Get a list of recommended movies similar to the selected movie.
+- Interactive Streamlit web application.
+
+## Installation
+
+### Prerequisites
+
+- Python 3.7 or higher
+- pip (Python package installer)
+
+### Steps
+
+1. **Clone the repository:**
+
+   ```sh
+   git clone https://github.com/your-username/movie-recommender-system.git
