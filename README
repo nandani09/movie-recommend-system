@@ -35,4 +35,4 @@ The Movie Recommender System uses cosine similarity to recommend movies based on
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/your-username/movie-recommender-system.git
+   git clone https://github.com/nandani09/movie-recommender-system.git
